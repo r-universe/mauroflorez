@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MultRegCMP"]
 	path = MultRegCMP
-	url = https://github.com/cran/MultRegCMP
+	url = https://github.com/mauroflorez/cmp
